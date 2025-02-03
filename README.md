@@ -91,7 +91,10 @@ To ensure it is not added, it is included in `.gitignore`.
 This project is licensed under the MIT License. Feel free to use and modify it.
 
 ## 👨‍💻 Authors
-- **Priyanshu Sharma** - Full Stack Developer
+- **Priyanshu Sharma** - FrontEnd Dev
+- **Sagun Basnet** - FrontEnd Dev
+- **Abijet Raut** - Full Stack Dev
+- **Rupesh Chaudhary** - Backend Dev
 - **Team Trio Nerd** - Hackathon Participants
 
 ---
