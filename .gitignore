@@ -1,0 +1,47 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log
+yarn-debug.log
+pnpm-debug.log
+lerna-debug.log
+.log
+log/
+
+# Build files
+dist/
+build/
+
+# Cache
+.cache/
+.cache-loader/
+.next/
+out/
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Linux system files
+*.swp
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Docker
+docker-compose.override
